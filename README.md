@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="logo_colegio.png" width="110" alt="Logo"/>
-
 # Perceptrón Multicapa (MLP) — Heart Disease Dataset
 
 **Trabajo Práctico PSR-TP01-C2 · Programación de Redes**
